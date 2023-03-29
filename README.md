@@ -18,7 +18,7 @@
   $ python run.py
  ```
 ##### TAMPILAN MENU:
-![template_s]()
+![template_s](https://github.com/Xyaa-Code/DIT4K/blob/main/data/images/Screenshot_2023-03-30-03-45-54-25_84d3000e3f4017145260f7618db1d683.jpg)
 
 
 ##### HASIL CRACK:
